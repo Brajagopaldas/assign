@@ -1,3 +1,5 @@
+//Write a Java program to declare name, rollNo, and marks as instance variables inside a Student class. Assign suitable values to the variables and display the student's name, roll number, and marks.
+
 public class Student {
     String name = "Braja";
     int rollNo = 136;
