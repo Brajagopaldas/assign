@@ -1,3 +1,6 @@
+// Q9. Write a Java program to declare employeeName and basicSalary as instance variables and companyName as a static variable. Create a method that accepts the basic salary as a parameter. Calculate HRA, DA, and totalSalary using local variables and display all the salary details.
+
+
 class Esalary {
 
     String employeeName = "Braja";
