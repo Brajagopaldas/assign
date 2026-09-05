@@ -1,3 +1,5 @@
+// Q8 .. Write a Java program to declare studentName as an instance variable and collegeName as a static variable. Create a method that accepts three subject marks as parameters. Calculate the total marks using a local variable and display the student's complete details.
+
 public class StudentDetails {
     static void studentDetails(String studentName, String collegeName, int mark1, int mark2, int mark3){
         System.out.println("Student Name: " + studentName);
